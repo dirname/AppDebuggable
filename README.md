@@ -23,7 +23,7 @@
 应用开关中开关需要打开调试的应用
 
 ## 重启生效
-<img src="Images/3.png" width = 30% height = 30%/>
+<img src="Images/3.png" width = 80% height = 80%/>
 选择完应用后，重启设备，随后在 Logcat 中选择打开的应用
 
 # 为什么要请求 root ?
@@ -34,4 +34,4 @@ Xposed 会在设备启动时加载，此时 `XSharedPreferences` 或 `ContentPro
 
 App Debuggable 流程图
 
-<img src="Images/4.png" width = 30% height = 30%/>
+<img src="Images/4.png" width = 80% height = 80%/>
