@@ -11,3 +11,7 @@
 + Android 设备 Xposed 版本 90-beta3
 
 > 引用项目 [CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout)
+
+![show](Images/1.jpg)
+![show](Images/2.jpg)
+![show](Images/3.png)
