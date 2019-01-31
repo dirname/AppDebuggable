@@ -10,4 +10,4 @@
 + Kotlin 1.3
 + Android 设备 Xposed 版本 90-beta3
 
-> 引用项目 [CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout）
+> 引用项目 [CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout)
