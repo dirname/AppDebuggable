@@ -1,6 +1,7 @@
 # App Debuggable
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](https://github.com/hugeterry/CoordinatorTabLayout/blob/master/LICENSE.txt)
+[![Download](https://api.bintray.com/packages/hugeterry/CoordinatorTabLayout/CoordinatorTabLayout/images/download.svg) ](https://www.coolapk.com/apk/217046)
 
 + 测试 Android 设备 Huawei EVA-AL10
 + Android 设备版本 8.0.0
