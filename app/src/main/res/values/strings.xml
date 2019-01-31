@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">App Debuggable</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="app_packageName" translatable="false">PackageName</string>
+    <string name="appInfo_appName" translatable="false">AppName</string>
+    <string name="appInfo_appIcon_des" translatable="false">App Icon</string>
+    <string name="menu_showSystemApp">Show System Apps</string>
+    <string name="tab_about">About</string>
+    <string name="tab_app">Apps Switch</string>
+    <string name="get_root_des">This module will hook all methods from \"com.android.server.pm.PackageManagerService\"
+        when your device booting and load the apps.\"XSharedPreferences\" and \"ContentProvider\" may didn\'t work.\n\nSo we need
+        to apply for root privilege to create file in \"/data/AppsSwitch.json\" and read your configure when your device boot.\n\n
+        App Debuggable is open source.So this behavior is safe.We will not read other files and information on your device.You can
+        visit GitHub and git code to check it from \"About\" page.
+    </string>
+    <string name="sync_error_title">Sync Apps Switch File Error</string>
+    <string name="sync_error_desc">It looks like you don\'t have any permission to crate file on \"/data/\".\n\nPlease check have app get root privilege and switch the application again.</string>
+    <string name="get_root_error_title">Oops !</string>
+    <string name="get_root_error_desc">It looks like your device doesn\'t have root or you denied root privilege.\n\n
+        If your device have root.Please go your root manager and allow App Debuggable and try again.
+    </string>
+    <string name="permission_storage_title">Android Permission Deny</string>
+    <string name="permission_storage_dec">App Debuggable need \"Storage Permission\" to save configure file.</string>
+    <string name="go_to_allow">Allow</string>
+    <string name="exit">Exit</string>
+    <string name="OK">OK</string>
+    <string name="apply_root">Apply for root</string>
+    <string name="do_not_show_again">Don\'t show again</string>
+    <string name="Create_file_error">Create File Error</string>
+    <string name="configure_not_valid">The configuration is not valid.Please switch the application again.</string>
+    <string name="is_debuggable">debuggable is true.</string>
+    <string name="not_debuggable">debuggable is false.</string>
+    <string name="wait_root">Please wait....\n\nCheck and apply for root access</string>
+    <string name="reboot">Reboot Device</string>
+    <string name="module_is_active">Xposed Module is active</string>
+    <string name="module_not_active">Xposed Module is not active</string>
+    <string name="app_des">Easy module which makes the apps debuggable is true</string>
+    <string name="Source_code"><u>Code on GitHub</u></string>
+    <string name="author" translatable="false">Code by Ah ! <u>GitHub@dirname</u></string>
+    <string name="switch_tips">After switch on or off app you may reboot your device to make it effect.</string>
+    <string name="tips">Tips</string>
+    <string name="reboot_failed">Reboot Failed</string>
+    <string name="reboot_error">Reboot fails, possibly due to inadequate permissions. You can manually reboot to make your configuration work.</string>
+    <string name="load_app">Please wait.....\n\nLoading installation apps</string>
+    <string name="readme">The legal consequences are not related to the developer.</string>
+</resources>

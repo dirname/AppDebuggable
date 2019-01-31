@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Debuggable</string>
+    <string name="menu_showSystemApp">显示系统应用</string>
+    <string name="tab_about">关于</string>
+    <string name="tab_app">应用开关</string>
+    <string name="load_app">请等待.....\n\n正在加载应用</string>
+    <string name="get_root_des">此模板会在设备启动加载APP时从 \"com.android.server.pm.PackageManagerService\"劫持所有的方法.此时 \"XSharedPreferences\" 和 \"ContentProvider\" 可能不能工作.\n\n所以我们需要申请root权限以在 \"/data/AppsSwitch.json\" 创建并读取您的配置.\n\nApp Debuggable 是开源的.我们不会从您的设备上读取其他信息. 所以这个行为是安全的. 你可以在\"关于\"页面从GitHub上面查看源代码.</string>
+    <string name="sync_error_title">同步应用配置错误</string>
+    <string name="sync_error_desc">看起来您似乎没有\"/data/\"读写权限.\n\n请检查您是否授予了root权限.然后再试一次</string>
+    <string name="get_root_error_title">啊哦 !</string>
+    <string name="get_root_error_desc">看来您的设备似乎没有root.\n\n如果您的设备已经root.请您在root权限管理器中授权App Debuggable</string>
+    <string name="permission_storage_title">权限不足</string>
+    <string name="permission_storage_dec">App Debuggable 需要 \"储存权限\" 来保存配置文件</string>
+    <string name="go_to_allow">授权</string>
+    <string name="exit">退出</string>
+    <string name="OK">好的</string>
+    <string name="apply_root">Root 权限请求</string>
+    <string name="do_not_show_again">不再提醒</string>
+    <string name="Create_file_error">创建文件出错</string>
+    <string name="configure_not_valid">当前配置未生效.请重新开关应用程序</string>
+    <string name="is_debuggable">已开启调试</string>
+    <string name="not_debuggable">已关闭调试</string>
+    <string name="wait_root">请等待....\n\n正在检查并请求root权限</string>
+    <string name="reboot">重启设备</string>
+    <string name="module_is_active">Xposed 模板已激活</string>
+    <string name="module_not_active">Xposed 模板未激活</string>
+    <string name="app_des">打开APP调试属性.实现逆向分析和断点调试</string>
+    <string name="Source_code"><u>GitHub 源代码</u></string>
+    <string name="switch_tips">开关应用之后.您可能需要重新启动您的设备来使其生效</string>
+    <string name="tips">提示</string>
+    <string name="reboot_failed">重启失败</string>
+    <string name="reboot_error">可能是您没有root权限导致.您可以手动重启来使您的配置生效</string>
+    <string name="readme">仅供交流学习.违法者后果自负</string>
+</resources>
