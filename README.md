@@ -12,6 +12,6 @@
 
 > 引用项目 [CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout)
 
-<img src="Images/1.jpg" style="zoom:50%" />
-![show](Images/2.jpg)
-![show](Images/3.png)
+<img src="Images/1.jpg" width = 30% height = 30%/>
+<img src="Images/2.jpg" width = 30% height = 30%/>
+<img src="Images/3.png" width = 30% height = 30%/>
