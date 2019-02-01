@@ -1,7 +1,7 @@
 # App Debuggable
 
-[![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](https://github.com/hugeterry/CoordinatorTabLayout/blob/master/LICENSE.txt)
-[![Download](https://api.bintray.com/packages/hugeterry/CoordinatorTabLayout/CoordinatorTabLayout/images/download.svg) ](https://www.coolapk.com/apk/217046)
+[![License](Images/license-Apache%202.0-green.svg)](https://github.com/hugeterry/CoordinatorTabLayout/blob/master/LICENSE.txt)
+[![Download](Images/download.svg) ](https://www.coolapk.com/apk/217046)
 
 + 测试 Android 设备 Huawei EVA-AL10
 + Android 设备版本 8.0.0
@@ -36,3 +36,10 @@ Xposed 会在设备启动时加载，此时 `XSharedPreferences` 或 `ContentPro
 App Debuggable 流程图
 
 <img src="Images/4.png" width = 80% height = 80%/>
+
+# Release 下载
+
+[GitHub](https://github.com/dirname/AppDebuggable/releases)
+[酷安市场](https://www.coolapk.com/apk/217046)
+[Xposed仓库](https://repo.xposed.info/module/cn.forgiveher.appdebuggable)
+
