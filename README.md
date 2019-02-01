@@ -39,7 +39,7 @@ App Debuggable 流程图
 
 # Release 下载
 
-[GitHub](https://github.com/dirname/AppDebuggable/releases)
-[酷安市场](https://www.coolapk.com/apk/217046)
+[GitHub](https://github.com/dirname/AppDebuggable/releases)</br>
+[酷安市场](https://www.coolapk.com/apk/217046)</br>
 [Xposed仓库](https://repo.xposed.info/module/cn.forgiveher.appdebuggable)
 
